@@ -1,0 +1,7 @@
+cronlog/
+logfile
+__pycache__/
+config.json
+.env/
+wifi_enable.sh
+wifi_disable.sh

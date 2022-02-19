@@ -1,0 +1,6 @@
+{
+    "DRIVERPATH": "path/to/chrome/driver",
+    "PASSWORD": "router pw",
+    "PATH": "http://myrouter.local",
+    "RADIOS": "['2.4', '5']"
+}
